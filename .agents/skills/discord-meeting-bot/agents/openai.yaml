@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discord Meeting Bot"
+  short_description: "Discord 회의 등록 봇을 안전하게 개발하고 검증합니다."
+  default_prompt: "이 저장소의 Discord 회의 봇 기능을 구현하거나 수정하고 타입 검사를 실행해 주세요."
